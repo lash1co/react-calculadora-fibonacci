@@ -1,3 +1,7 @@
+# Description
+
+This is a project in React, that send two integer values to sum them, and then it returns you if that result is in Fibonacci's serie.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
